@@ -45,12 +45,12 @@ Conference Proceedings
 Patents
 ======
 
-* **Ma K**, et al. (2023). A multi-functional self-service beverage machine, ZL202222074812.3, Ranking: 1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RNeXult9nOyBMTwUt6fCjtadnmVu81T-OvRS7mcISrSf&uniplatform=NZKPT)
+* **Ma K**, et al. (2023). A multi-functional self-service beverage machine, ZL202222074812.3. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RNeXult9nOyBMTwUt6fCjtadnmVu81T-OvRS7mcISrSf&uniplatform=NZKPT)
   
-* A gaming mouse with audio function, ZL202221941264.3, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs337MT9aFg1ZVUBrOZhTCSIkS9v_ts7OI-FWDYt4YFxC&uniplatform=NZKPT)
+* **Ma K**, et al. (2022). A gaming mouse with audio function, ZL202221941264.3. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs337MT9aFg1ZVUBrOZhTCSIkS9v_ts7OI-FWDYt4YFxC&uniplatform=NZKPT)
 
-* 一种辅助儿童绘图的投影工具, ZL202221941263.9, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs1qPbQACjzpnacyA8PNp1hNbsdS1DigErkr6megEwoYP&uniplatform=NZKPT)
+* **Ma K**, et al. (2022). A projection tool to assist children in drawing, ZL202221941263.9. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs1qPbQACjzpnacyA8PNp1hNbsdS1DigErkr6megEwoYP&uniplatform=NZKPT)
 
-* 一种可充气的救生轮毂辅助装置, ZL202221941260.5, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs9iBbSxuvve691m8oXmf-v1-JQof5sim4cVmZTbp22UJ&uniplatform=NZKPT)
+* **Ma K**, et al. (2022). An inflatable life-saving wheel hub auxiliary device, ZL202221941260.5. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs9iBbSxuvve691m8oXmf-v1-JQof5sim4cVmZTbp22UJ&uniplatform=NZKPT)
 
-* 一种毛巾烘干机, ZL202221979770.1, 排名2. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs_J0T29VfyUzX4H6P8YWrhf0kWviFPS-9bwD629uBaqu&uniplatform=NZKPT)
+* **Ma K**, et al. (2022). A towel dryer, ZL202221979770.1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs_J0T29VfyUzX4H6P8YWrhf0kWviFPS-9bwD629uBaqu&uniplatform=NZKPT)
