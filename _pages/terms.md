@@ -6,7 +6,15 @@ author_profile: true
 ---
 
 
+Teaching Assistant                    September, 2018 — June, 2019
 
-* 2018年9月——2019年6月, 担任Marcelo Soares教授指导的课程《Ergonomics in Design》的课程助教.
+* Prof. Marcelo Soares’ course - Ergonomics in Design
 
-* 2021年4月——2021年7月, 担任Carlo Vezzoli教授指导的课程《Method System Design for Sustainability for Clothing》的课程助理.
+* Worked at School of Design, Hunan University, China
+  
+
+Teaching Assistant                    April, 2021 — July, 2021
+
+* Prof. Carlo Vezzoli’s course - Method System Design for Sustainability for Clothing
+
+* Worked at Design Department, Politecnico di Milano, Italy
