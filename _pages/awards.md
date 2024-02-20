@@ -14,7 +14,7 @@ author_profile: true
 
 * In November 2019, I won the **Outstanding Graduate Student Award** at Hunan University for the 2018-2019 academic year.
 
-* In June 2019, I received a grant from the China Scholarship Council and went to the Politecnico di Milano in Italy for **doctoral joint training**.
+* In June 2019, I received a grant from the China Scholarship Council and went to the Politecnico di Milano in Italy for **doctoral joint training** (One year).
 
 **Master**
 
