@@ -7,23 +7,23 @@ author_profile: true
 
 
 
-7\. **Ma K**. Development of an extended TAM model for enabling online social experience with smart home displays for older adults. *The Design Journal* (2024):1-12. doi: 10.1080/14606925.2024.2313290. [[link]](https://www.tandfonline.com/doi/full/10.1080/14606925.2024.2313290)
-**(AHCI, 设计学顶刊)**
+7\. **Ma K**. Development of an extended TAM model for enabling online social experience with smart home displays for older adults. *The Design Journal* (2024):1-12. doi: 10.1080/14606925.2024.2313290. **(AHCI)** [[link]](https://www.tandfonline.com/doi/full/10.1080/14606925.2024.2313290)
 
-6\. **Ma K**, Gao M, Guida FE, He R. Understanding the Influencing Factors and Mechanism of Social Compensation for Chinese Older Adults Using Social Media in the Context of Smart Home: A Qualitative Analysis. *Frontiers in Public Health* (2023) 11:1-20. doi: 10.3389/fpubh.2023.1174920. [[link]](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1174920/full)
-**(SCI&SSCI, JCR Q1, IF=5.2)**
 
-5\. Gao M, **Ma K**, He R, Vezzoli C, Li N. A Bibliometric Analysis of Sustainable Product Design Methods from 1999 to 2022: Trends, Progress, and Disparities between China and the Rest of the World. *Sustainability* (2023) 15:1-24. doi: 10.3390/su151612440. [[link]](https://www.mdpi.com/2071-1050/15/16/12440)
-**(SCI&SSCI, JCR Q2, IF=3.9)**
+6\. **Ma K**, Gao M, Guida FE, He R. Understanding the Influencing Factors and Mechanism of Social Compensation for Chinese Older Adults Using Social Media in the Context of Smart Home: A Qualitative Analysis. *Frontiers in Public Health* (2023) 11:1-20. doi: 10.3389/fpubh.2023.1174920. **(SCI&SSCI, JCR Q1, IF=5.2)** [[link]](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1174920/full)
 
-4\. Gao M, He R, Vezzoli C, **Ma K**, Zhang Y. Characterizing and Defining of Designing Sustainable Product-Service Systems Applied to Distributed Water-Energy-Food Nexus. *Frontiers in Environmental Science* (2022) 10:1–14. doi: 10.3389/fenvs.2022.864281. [[link]](https://www.frontiersin.org/article/10.3389/fenvs.2022.864281)
-**(SCI, JCR Q2, IF=4.6)**
 
-3\. 郝涔钧, 何人可, 尹璐, **马可**. 基于情感化交互的家用扫地机器人故障表达. *包装工程* (2022) 43:98-105+115. doi: 10.19554/j.cnki.1001-3563.2022.02.013. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRBUvp3m0UU1FLIWxYg3NkvajNmIX2YK7iLfiZc_C1EsYYITTcXL2P2x2vxnQG6nRnnlbl8asGkvY-Db10atAltx5cswaSVy8QCutkGn7a10zk4SkOpiKuilDS4dUOtCo3Hn2EmuQScbwQ==&uniplatform=NZKPT&language=CHS)
+5\. Gao M, **Ma K**, He R, Vezzoli C, Li N. A Bibliometric Analysis of Sustainable Product Design Methods from 1999 to 2022: Trends, Progress, and Disparities between China and the Rest of the World. *Sustainability* (2023) 15:1-24. doi: 10.3390/su151612440. **(SCI&SSCI, JCR Q2, IF=3.9)** [[link]](https://www.mdpi.com/2071-1050/15/16/12440)
 
-2\. **马可**, 何人可, 张军, 高梦. 应用于分布式食物生产的可持续产品服务系统设计研究. *包装工程* (2021) 42:164-170+200. doi: 10.19554/j.cnki.1001-3563.2021.14.019. [[link]](https://kns.cnki.net/kcms/detail/detail.aspx?sfield=fn&QueryID=4&CurRec=1&recid=&FileName=BZGC202114019&DbName=CJFDLAST2021&DbCode=CJFD&yx=A&pr=&URLID=50.1094.TB.20200615.1759.006)
 
-1\. **马可**, 何人可, 马超民. 基于语音交互的家用智能扫地机器人体验设计研究. *包装工程* (2020) 41:118–124. doi: 10.19554/j.cnki.1001-3563.2020.18.014. [[link]](http://packjour.ijournals.cn/bzgcysb/ch/reader/view_abstract.aspx?file_no=202018014)
+4\. Gao M, He R, Vezzoli C, **Ma K**, Zhang Y. Characterizing and Defining of Designing Sustainable Product-Service Systems Applied to Distributed Water-Energy-Food Nexus. *Frontiers in Environmental Science* (2022) 10:1–14. doi: 10.3389/fenvs.2022.864281. **(SCI, JCR Q2, IF=4.6)** [[link]](https://www.frontiersin.org/article/10.3389/fenvs.2022.864281)
+
+
+3\. Hao C, He R, Yin L, **Ma K**. Fault Expression of Home Robot Vacuum Based on Emotional Interaction. *Packaging Engineering* (2022) 43:98-105+115. doi: 10.19554/j.cnki.1001-3563.2022.02.013. **(Chinese Core Journals)** [[link]](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRBUvp3m0UU1FLIWxYg3NkvajNmIX2YK7iLfiZc_C1EsYYITTcXL2P2x2vxnQG6nRnnlbl8asGkvY-Db10atAltx5cswaSVy8QCutkGn7a10zk4SkOpiKuilDS4dUOtCo3Hn2EmuQScbwQ==&uniplatform=NZKPT&language=CHS)
+
+2\. **Ma K**, He R, Zhang J, Gao M. Design of Sustainable Product-Service System Applied to Distributed Production of Food. *Packaging Engineering* (2021) 42:164-170+200. doi: 10.19554/j.cnki.1001-3563.2021.14.019. **(Chinese Core Journals)** [[link]](https://kns.cnki.net/kcms/detail/detail.aspx?sfield=fn&QueryID=4&CurRec=1&recid=&FileName=BZGC202114019&DbName=CJFDLAST2021&DbCode=CJFD&yx=A&pr=&URLID=50.1094.TB.20200615.1759.006)
+
+1\. **马可**, 何人可, 马超民. 基于语音交互的家用智能扫地机器人体验设计研究. *Packaging Engineering* (2020) 41:118–124. doi: 10.19554/j.cnki.1001-3563.2020.18.014. **(Chinese Core Journals)** [[link]](https://kns.cnki.net/kcms/detail/detail.aspx?sfield=fn&QueryID=72&CurRec=3&recid=&FileName=BZGC202018016&DbName=CJFDLAST2020&DbCode=CJFD&yx=A&pr=&URLID=50.1094.TB.20200312.1630.036)
 
 
 
