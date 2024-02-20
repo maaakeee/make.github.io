@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 
-* 主持湖南省教育厅立项的研究生科研创新项目《产品服务系统设计研究》, 编号: **CX20200425**.
+ **Intelligent Product-service System and User Experience**. Hunan Provincial Innovation Foundation for Postgraduate (No. **CX20200425**).
+ * I was the host
+ 
+ * September, 2020 — February, 2022
 
-* 参与教育部人文社会科学研究青年基金项目《文化传统视域下人工智能产品的交互设计研究》, 编号: **19YJC760075**. 
+ * This study was funded by Hunan Provincial Department of Education
+   
+
+ 参与教育部人文社会科学研究青年基金项目《文化传统视域下人工智能产品的交互设计研究》, 编号: **19YJC760075**. 
 
 * 参与Carlo教授主持的国际科研项目, 自助饮料机设计项目.
 
