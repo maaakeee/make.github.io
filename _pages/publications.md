@@ -23,31 +23,31 @@ author_profile: true
 
 2\. **Ma K**, He R, Zhang J, Gao M. Design of Sustainable Product-Service System Applied to Distributed Production of Food. *Packaging Engineering* (2021) 42:164-170+200. doi: 10.19554/j.cnki.1001-3563.2021.14.019. **(Chinese Core Journals)** [[link]](https://kns.cnki.net/kcms/detail/detail.aspx?sfield=fn&QueryID=4&CurRec=1&recid=&FileName=BZGC202114019&DbName=CJFDLAST2021&DbCode=CJFD&yx=A&pr=&URLID=50.1094.TB.20200615.1759.006)
 
-1\. **马可**, 何人可, 马超民. 基于语音交互的家用智能扫地机器人体验设计研究. *Packaging Engineering* (2020) 41:118–124. doi: 10.19554/j.cnki.1001-3563.2020.18.014. **(Chinese Core Journals)** [[link]](https://kns.cnki.net/kcms/detail/detail.aspx?sfield=fn&QueryID=72&CurRec=3&recid=&FileName=BZGC202018016&DbName=CJFDLAST2020&DbCode=CJFD&yx=A&pr=&URLID=50.1094.TB.20200312.1630.036)
+1\. **Ma K**, He R, Ma C. Experience Design of Household Intelligent Sweeping Robot Based on Voice Interaction. *Packaging Engineering* (2020) 41:118–124. doi: 10.19554/j.cnki.1001-3563.2020.18.014. **(Chinese Core Journals)** [[link]](https://kns.cnki.net/kcms/detail/detail.aspx?sfield=fn&QueryID=72&CurRec=3&recid=&FileName=BZGC202018016&DbName=CJFDLAST2020&DbCode=CJFD&yx=A&pr=&URLID=50.1094.TB.20200312.1630.036)
 
 
 
 Conference Proceedings
 ======
 
-6\. **Ma K**. Development of a multi-dimensional scale of social compensation for older people in the context of smart home social media. *HCII2024*. (Accepted) 
+6\. **Ma K**. Development of a multi-dimensional scale of social compensation for older people in the context of smart home social media. *HCII2024*. **(EI Engineering Index)** (Accepted) 
 
-5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2023*. Lecture Notes in Computer Science, vol 14043. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
+5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2023*. Lecture Notes in Computer Science, vol 14043. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. **(EI Engineering Index)** [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
 
 4\. **Ma K**, He R, Gao M. Design for Product-Service System Innovation of the New Fresh Retail in the Context of Chinese Urban Community. In: Francisco R, editor. *Ergonomics In Design*. USA: AHFE Open Acces (2022). p. 186-193 doi: 10.54941/ahfe1001936. [[link]](https://openaccess.cms-conferences.org/publications/book/978-1-958651-23-0/article/978-1-958651-23-0_24)
 
-3\. Jin W, Shan X, **Ma K**. Research on Information Visualization Design for Public Health Security Emergencies. In: Kurosu M, editor. *Human-Computer Interaction. Design and User Experience Case Studies*. Lecture Notes in Computer Science. Cham: Springer International Publishing (2021). p. 325–336 doi: 10.1007/978-3-030-78468-3_22. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-78468-3_22)
+3\. Jin W, Shan X, **Ma K**. Research on Information Visualization Design for Public Health Security Emergencies. In: Kurosu M, editor. *Human-Computer Interaction. Design and User Experience Case Studies*. Lecture Notes in Computer Science. Cham: Springer International Publishing (2021). p. 325–336 doi: 10.1007/978-3-030-78468-3_22. **(EI Engineering Index)** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-78468-3_22)
 
-2\. Gao M, He R, **Ma K**. Describing and Visualizing Sustainable Product-Service System (S.PSS) Applied to Distributed Water-Energy-Food (WEF) Nexus. In: Rebelo F, editor. *Advances in Ergonomics in Design*. Lecture Notes in Networks and Systems. Cham: Springer International Publishing (2021). p. 323–330 doi: 10.1007/978-3-030-79760-7_39. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-79760-7_39)
+2\. Gao M, He R, **Ma K**. Describing and Visualizing Sustainable Product-Service System (S.PSS) Applied to Distributed Water-Energy-Food (WEF) Nexus. In: Rebelo F, editor. *Advances in Ergonomics in Design*. Lecture Notes in Networks and Systems. Cham: Springer International Publishing (2021). p. 323–330 doi: 10.1007/978-3-030-79760-7_39. **(EI Engineering Index)** [[link]](https://link.springer.com/chapter/10.1007/978-3-030-79760-7_39)
 
-1\. He R, Gao M, Vezzoli C, **Ma K**. Designing Sustainable Product-Service Systems Applied to Distributed Economies in Water-Energy-Food Nexus approach. *Cumulus Roma* (2021). p. 3382-3400. [[link]](https://cumulusroma2020.org/proceedings-files/DC(s)_PROCEEDINGS_full_vol2.pdf) 
+1\. He R, Gao M, Vezzoli C, **Ma K**. Designing Sustainable Product-Service Systems Applied to Distributed Economies in Water-Energy-Food Nexus approach. *Cumulus Roma* (2021). p. 3382-3400. **(A well-known international conference on design)** [[link]](https://cumulusroma2020.org/proceedings-files/DC(s)_PROCEEDINGS_full_vol2.pdf) 
 
 Patents
 ======
 
-* 一种带有音响功能的游戏鼠标, ZL202221941264.3, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs337MT9aFg1ZVUBrOZhTCSIkS9v_ts7OI-FWDYt4YFxC&uniplatform=NZKPT)
-
-* 一种多功能的自助饮料机, ZL202222074812.3, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RNeXult9nOyBMTwUt6fCjtadnmVu81T-OvRS7mcISrSf&uniplatform=NZKPT)
+* **Ma K**, et al. (2023). A multi-functional self-service beverage machine, ZL202222074812.3, Ranking: 1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0Qg-R0xSsdGdCfhLaAHW6RNeXult9nOyBMTwUt6fCjtadnmVu81T-OvRS7mcISrSf&uniplatform=NZKPT)
+  
+* A gaming mouse with audio function, ZL202221941264.3, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs337MT9aFg1ZVUBrOZhTCSIkS9v_ts7OI-FWDYt4YFxC&uniplatform=NZKPT)
 
 * 一种辅助儿童绘图的投影工具, ZL202221941263.9, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs1qPbQACjzpnacyA8PNp1hNbsdS1DigErkr6megEwoYP&uniplatform=NZKPT)
 
