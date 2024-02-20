@@ -6,27 +6,26 @@ author_profile: true
 ---
 
 
-* 2020年12月, 获湖南大学博士研究生校长奖学金.
+**Ph.D.**
 
-* 2020年11月, 获湖南大学2019-2020年度优秀研究生.
+* In December 2020, I won the **President’s Scholarship** for Doctoral Students at Hunan University.
 
-* 2019年11月, 获湖南大学2018-2019年度优秀研究生.
+* In November 2020, I was awarded the **Outstanding Graduate Student Award** at Hunan University for the 2019-2020 academic year.
 
-* 2019年06月，获中国国家留学基金委资助，公派赴意大利米兰理工大学进行博士联合培养.
+* In November 2019, I won the **Outstanding Graduate Student Award** at Hunan University for the 2018-2019 academic year.
 
-* 2016年11月, 获湖南大学2015-2016年度优秀研究生干部.
+* In June 2019, I received a grant from the China Scholarship Council and went to the Politecnico di Milano in Italy for **doctoral joint training**.
 
-* 2015年11月, 获湖南大学2014-2015年度优秀研究生.
+**Master**
 
-* 2015年11月, 获湖南大学2014-2015年度优秀学生党员.
+* In November 2016, I won the title of **Outstanding Graduate Cadre** of Hunan University from 2015 to 2016.
 
-* 2013年10月, 获本科国家奖学金.
+* In November 2015, I was awarded the **Outstanding Graduate Student Award** at Hunan University for the 2014-2015 academic year.
 
-* 2013年10月, 获湖南大学三好学生.
+**Undergraduate**
+
+* In October 2013, I won the **undergraduate national scholarship**.
+
+* In October 2013, I was awarded the title of **”Three Good Students”** at Hunan University.
 
 
-## Positions
-
-* 2018年9月——2019年12月, 担任湖南大学设计艺术学院博士生党支部书记, 编号:15435200018.
-
-* 2019年12月——2023年6月, 担任湖南大学设计艺术学院博士生党支部委员, 编号:15435200013.
