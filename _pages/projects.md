@@ -14,11 +14,20 @@ author_profile: true
  * This study was funded by Hunan Provincial Department of Education
    
 
- 参与教育部人文社会科学研究青年基金项目《文化传统视域下人工智能产品的交互设计研究》, 编号: **19YJC760075**. 
+ **Interaction Design of AI Products from the Perspective of Cultural Tradition**. Ministry of Education Humanities and Social Sciences Research - Youth Fund Project (No. **19YJC760075**). 
 
-* 参与Carlo教授主持的国际科研项目, 自助饮料机设计项目.
+* I was involved
 
-* 参与中车株洲电力机车设计研究项目, 负责信息接收系统全接触点方面的设计研究.
+* July, 2019 — September, 2021
 
-* 参与科沃斯设计研究项目, 在项目中主要负责具体的项目内容指导工作, 监督跟进项目进度, 并在项目节点进行汇报.
+* This study was funded by Ministry of Education of China
+
+**Self-service Beverage Machine Design Project**. Works at POLIMI.
+
+* I was involved
+
+* March, 2021 — September, 2021
+
+* My design proposal was selected for proofing and further production
+  
 
