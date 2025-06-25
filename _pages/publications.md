@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+9\. **Ma K**. Exploring the Influence of Social Compensation Design on General Acceptance of Chinese Older Adults Using Social Media in the Context of Smart Home. *Computers in Human Behavior*. **(Working Paper)** 
+
+8\. **Ma K**. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart Home Social Media. *Behaviour & Information Technology*. **(Under Review)**
 
 7\. **Ma K**. Development of an extended TAM model for enabling online social experience with smart home displays for older adults. *The Design Journal* (2024) 27:368-379. doi: 10.1080/14606925.2024.2313290. **(A&HCI)** [[link]](https://www.tandfonline.com/doi/full/10.1080/14606925.2024.2313290)
 
@@ -30,7 +33,7 @@ author_profile: true
 Conference Proceedings
 ======
 
-6\. **Ma K**. Development of a multi-dimensional scale of social compensation for older people in the context of smart home social media. *HCII2024*. **(EI Engineering Index)** (Accepted) 
+6\. **Ma K**, Gao M, He R. Constructing a Multi-dimensional Social Compensation Design Scale for Older People Within the Framework of Social Media for Smart Homes. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2024*. Cham: Springer Nature Switzerland (2024). p. 59–75 doi: 10.1007/978-3-031-61543-6_5. **(EI Engineering Index)** [[link]](https://link.springer.com/chapter/10.1007/978-3-031-61543-6_5)
 
 5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2023*. Lecture Notes in Computer Science, vol 14043. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. **(EI Engineering Index)** [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
 
