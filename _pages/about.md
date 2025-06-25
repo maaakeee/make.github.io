@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Ke Ma holds a Ph.D. in Design from [School of Design, Hunan University](http://design.hnu.edu.cn/) (HNU), China, under the mentorship of Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). Previously, She spent one year as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/) (POLIMI) in Italy. She holds both a master's and a bachelor's degree in Industrial Design from [Hunan University](http://www.hnu.edu.cn/). Additionally, her master's program included a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan.
+Ke Ma is an assistant professor in the Department of Industrial Design at [Chongqing University (CQU)](http://www.cqu.edu.cn/), China. She holds a Ph.D. in Design from [School of Design, Hunan University](http://design.hnu.edu.cn/) (HNU), China, under the mentorship of Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). Previously, She spent one year as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/) (POLIMI) in Italy. She holds both a master's and a bachelor's degree in Industrial Design from [Hunan University](http://www.hnu.edu.cn/). Additionally, her master's program included a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan, China. Ke Ma currently serves as a reviewer for journals such as International Journal of Human Computer Interaction, PLoS One, Frontiers in Public Health, and Frontiers in Psychology.
 
 
 Research Interests
