@@ -8,7 +8,7 @@ author_profile: true
 
 10\. **Ma K**. Exploring the Influence of Social Compensation Design on General Acceptance of Chinese Older Adults Using Social Media in the Context of Smart Home. *Computers in Human Behavior*. **(Working Paper)** 
 
-9\. **Ma K**⁎, Zhao Y, Guida FE, Gao M, He R, Xia J⁎. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart-home Social Media. *Digital Health*. **(SCI&SSCI, JCR Q1, IF=3.3)** **(Accepted)**
+9\. **Ma K**˙, Zhao Y, Guida FE, Gao M, He R, Xia J˙. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart-home Social Media. *Digital Health*. **(SCI&SSCI, JCR Q1, IF=3.3)** **(Accepted)**
 
 8\. Yang Dongfang, Zhou Min, Liang Shuang, **Ma K**. Furniture Product Eco-Design Based on Life Cycle Assessment. *BioResources* (2025) 20: 6765-6778. doi: 10.15376/biores.20.3.6765-6778. **(SCI, JCR Q2, IF=1.6)** [[link]](https://ojs.bioresources.com/index.php/BRJ/article/view/23942)
 
