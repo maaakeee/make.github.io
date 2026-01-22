@@ -8,7 +8,7 @@ author_profile: true
 
 11\. **Ma K**. Exploring the Influence of Social Compensation Design on General Acceptance of Chinese Older Adults Using Social Media in the Context of Smart Home. *Computers in Human Behavior*. **(Working Paper)** 
 
-10\. **Ma K**, Zhao Y, Guida FE, Gao M, He R, Xia J†. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart-home Social Media. *Digital Health*. **(SCI&SSCI, JCR Q1, IF=3.3)** **(Accepted)**
+10\. **Ma K**, Zhao Y, Guida FE, Gao M, He R, Xia J†. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart-home Social Media. *Digital Health*. (2026) 12: 20552076251411270. doi: 10.1177/20552076251411270. **(SCI&SSCI, JCR Q1, IF=3.3)** [[link]](https://journals.sagepub.com/doi/10.1177/20552076251411270)
 
 9\. Xia J, Li Y, He Y, **Ma K†**. How museum-based creative-product experiences shape cultural confidence via cultural cognition and cultural identity. *Frontiers in Psychology*. (2026) 16:1742322. doi: 10.3389/fpsyg.2025.1742322. **(SSCI, JCR Q1, IF=2.9)** [[link]](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1742322/full?utm_source=email-sig&utm_medium=email&utm_content=500_VIEWS&utm_campaign=imp_mile_2024_fall_en_aut-ww)
 
