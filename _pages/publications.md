@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-11\. **Ma K**. Exploring the Influence of Social Compensation Design on General Acceptance of Chinese Older Adults Using Social Media in the Context of Smart Home. *Computers in Human Behavior*. **(Working Paper)** dddddddd
+11\. **Ma K**. Exploring the Influence of Social Compensation Design on General Acceptance of Chinese Older Adults Using Social Media in the Context of Smart Home. *Computers in Human Behavior*. **(Working Paper)**
 
 10\. **Ma K**, Zhao Y, Guida FE, Gao M, He R, Xia J†. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart-home Social Media. *Digital Health*. (2026) 12: 20552076251411270. doi: 10.1177/20552076251411270. **(SCI&SSCI, JCR Q1, IF=3.3)** [[link]](https://journals.sagepub.com/doi/10.1177/20552076251411270)
 
